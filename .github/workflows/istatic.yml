@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChainBud - Privacy Policy</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { margin-top: 30px; color: #111; }
+        p, li { color: #555; }
+    </style>
+</head>
+<body>
+
+    <!-- SANA YAZDIĞIM PRIVACY POLICY METNİNİ BURAYA YAPIŞTIR -->
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> May 26, 2026</p>
+    
+    <h2>1. Absolute As-Is Provision & Disclaimer</h2>
+    <p>The Application is provided on an "AS IS" and "AS AVAILABLE" basis...</p>
+    
+    <!-- Metnin geri kalanını bu şekilde p ve h2 etiketleri arasına koyabilirsin -->
+
+</body>
+</html>
